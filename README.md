@@ -1,2 +1,2 @@
-# DelJunkFile (Hack'Em Lord)
+# Búa.exe (Hack'Em Lord)
 Dành cho những con người thích tự hủy
